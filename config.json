@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "database-apis",
+      "title": "Database-backed APIs with SQLAlchemy",
+      "description": "Build a FastAPI app backed by a SQLite database using SQLAlchemy for persistence.",
+      "path": "assignments/database-apis",
+      "dueDate": "2026-08-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
